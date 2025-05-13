@@ -8,3 +8,4 @@ Feel free to use it.
 The config file "Sublime.settings" is the Preference settings of the Sublime Text Editor.
 
 Theme: https://github.com/daltonmenezes/aura-theme
+Video that I followed to get this done: https://www.youtube.com/watch?v=PAMBlYHGfc8
